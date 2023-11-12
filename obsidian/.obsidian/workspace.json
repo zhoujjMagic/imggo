@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "0d6b24b5b3d82406",
+    "type": "split",
+    "children": [
+      {
+        "id": "11cd3adcb89acdef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "678ea7e4078053e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "telegram.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "30b8f8dc4b4eeafc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d46383fb7eb1109a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "telegram.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "525f07ba98eced80",
+    "type": "split",
+    "children": [
+      {
+        "id": "35fe5e15811c3169",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "521d8b5b80e3506d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "25e444abdd14efee",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "28a538f68afa7bc7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9ec3a8397f56b5cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "96d2e9d3843eff5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cdedc6431246ea33",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "telegram.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "43d066660e9a0d46",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "telegram.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "420f3648c6eb85bf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "aa52ed6ab8d0fe30",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "telegram.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "678ea7e4078053e0",
+  "lastOpenFiles": [
+    "image/1698212516239.png.md",
+    "telegram.md",
+    "image/markd01.png",
+    "image/1698212556646.png.md",
+    "image/1698212556646.png",
+    "image/1698212536539.png",
+    "image/1698212516239.png",
+    "image/1698212475007.png",
+    "image/1698212648584.png",
+    "image/1698212699342.png",
+    "image/1698212766014.png",
+    "image/1698212817182.png",
+    "PythonBug.md",
+    "教学系统设计.md",
+    "平衡.md",
+    "如何把你身边的人变得很蠢.md",
+    "日记.md",
+    "教程.md",
+    "国企招聘地址.md",
+    "电商管理后台 API 接口文档.md",
+    "36计.pdf",
+    "搜索技术.md",
+    "housing_price.md",
+    "未命名.md",
+    "JDBC_连接_五种连接方法.md",
+    "MySQL OBDC驱动下载安装.md",
+    "MySQL数据库命令大全.md",
+    "numpy入门到深入.md",
+    "wei.md.md",
+    "数据平台.md",
+    "36计.md",
+    "image/telegram",
+    "image",
+    "xinjian.md",
+    "未命名"
+  ]
+}
